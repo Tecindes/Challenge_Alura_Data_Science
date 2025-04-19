@@ -5,15 +5,13 @@
 
 - [Descripción del proyecto](#Descripción-del-proyecto)
 
-- [Funcionalidades](#Funcionalidades)
+- [Análisis de datos](#Análisis-de-datos)
 
-- [Aplicación](#Aplicación)
+- [Visualización](#AVisualización)
 
 - [Herramientas utilizadas](#Herramientas-utilizadas)
 
 - [Acceso al proyecto](#Acceso-al-proyecto)
-
-- [Abrir y ejecutar el proyecto](#Abrir-y-ejecutar-el-proyecto)
 
 - [Desarrolladores](#Desarrolladores)
 
@@ -42,25 +40,12 @@ Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena 
 
 
 # Herramientas utilizadas
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://colab.research.google.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmikaelahonen.com%2Fen%2Fdata%2Fgoogle-colab%2F&psig=AOvVaw3RCdJ-1ipZh3G4GX3Z6MoO&ust=1745184927729000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj-zt_OhuWMAxVGA7kGHT56ObUQjRx6BAgAEBo" alt="Colab" width="40" height="40"/> </a> 
 
 <a href="https://www.trello.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbY1-Um96CJj5CiENgILgx12Sc6ZV-NPLdw&s" alt="trello" width="40" height="40"/> </a> 
 
 # Acceso al proyecto
-Usted puede [acessar al código fuente del proyecto](https://github.com/Tecindes/proyecto-amigo-secreto.git) o [Descárgalo](https://github.com/Tecindes/proyecto-amigo-secreto/archive/refs/heads/main.zip).
-
-# Abrir y ejecutar el proyecto
-
-Después de descargar el proyecto, puede abrirlo con "Visual Studio Code". Para ello, en la pantalla del launcher haga click en:
-
-- Abrir un proyecto existente (o alguna opción similar);
-- Buscar la ubicación donde se encuentra el proyecto y seleccionarlo (Si el proyecto se descarga vía zip, es necesario extraerlo antes de buscarlo);
-- Finalmente haga click en aceptar.
-
-Visual Studio Code debería ejecutar algunas tareas *Gradle* para configurar el proyecto, aguarde hasta que finalice. Cuando termine de ejecutar las tareas podrá ejecutar el aplicativo.
-
-- Para ejecutar el proyecto seleccione en el menu la opción EJECUTAR y posteriormente INICIAR DEPURACIÓN o directamente presione la tecla F5;
-- Si se le solicita escoger el navegador web de su preferencia.
+Usted puede [acessar al código fuente del proyecto](https://colab.research.google.com/drive/1AvnDLSB69-z_owImb5f9hZpN8XQ32KM6?hl=es-419) 
 
 # Desarrolladores
 [<img src="https://avatars.githubusercontent.com/u/87500675?s=400&u=3fff02d252f8ba421132223d77181d1f0549cc25&v=4" width=115><br><sub>Miguel Martínez Amézquita</sub>](https://github.com/Tecindes) 
