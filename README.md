@@ -1,5 +1,4 @@
 ## Proyecto Amigo Secreto
-![Proyecto Amigo Secreto](https://cdn-icons-png.freepik.com/256/12608/12608968.png?ga=GA1.1.1622220315.1738011490&semt=ais_hybrid)
 <hr>
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=TERMINADO&color=RED&style=for-the-badge" #vitrinedev/>
@@ -23,7 +22,7 @@
 
 ## Descripción del proyecto
 <p align="justify">
-Aplicación que permita al usuario ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
 ![](https://img.freepik.com/fotos-premium/colocaron-pegatinas-papel-diferentes-nombres-fondo-plano-madera-elegir-nombre-bebe_495423-87780.jpg?w=740)
 </p>
