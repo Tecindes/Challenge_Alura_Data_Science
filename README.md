@@ -7,7 +7,7 @@
 
 - [Análisis de datos](#Análisis-de-datos)
 
-- [Visualización](#AVisualización)
+- [Visualización](#Visualización)
 
 - [Herramientas utilizadas](#Herramientas-utilizadas)
 
