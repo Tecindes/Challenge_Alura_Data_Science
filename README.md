@@ -20,8 +20,6 @@
 ## Descripción del proyecto
 <p align="justify">
 Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
-
-![](https://img.freepik.com/fotos-premium/colocaron-pegatinas-papel-diferentes-nombres-fondo-plano-madera-elegir-nombre-bebe_495423-87780.jpg?w=740)
 </p>
 
 # Análisis de datos
@@ -36,13 +34,12 @@ Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena 
 
 :heavy_check_mark: `Funcionalidad 3:` Valor del envío promedio por tienda.
 
-# Aplicación
+# Visualización
 
-<div align="center">
+:heavy_check_mark:Generando gráfico
 
-![Android Emulator](https://raw.githubusercontent.com/Tecindes/proyecto-amigo-secreto/refs/heads/main/assets/Aplicacion.png)
+:heavy_check_mark:Informe final
 
-  </div>
 
 # Herramientas utilizadas
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -66,6 +63,4 @@ Visual Studio Code debería ejecutar algunas tareas *Gradle* para configurar el 
 - Si se le solicita escoger el navegador web de su preferencia.
 
 # Desarrolladores
-
-| [<img src="https://avatars.githubusercontent.com/u/87500675?s=400&u=3fff02d252f8ba421132223d77181d1f0549cc25&v=4" width=115><br><sub>Miguel Martínez Amézquita</sub>](https://github.com/Tecindes) |  [<img src="https://github.com/Tecindes/proyecto-amigo-secreto/blob/main/assets/Alura.jpg" width=115><br><sub>Alura Latam</sub>](https://github.com/crovim)  |
-| :---: | :---: 
+[<img src="https://avatars.githubusercontent.com/u/87500675?s=400&u=3fff02d252f8ba421132223d77181d1f0549cc25&v=4" width=115><br><sub>Miguel Martínez Amézquita</sub>](https://github.com/Tecindes) 
