@@ -1,8 +1,5 @@
-## Proyecto Amigo Secreto
+## Praticando con Python: Challenge Alura Store
 <hr>
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=TERMINADO&color=RED&style=for-the-badge" #vitrinedev/>
-</p>
 
 ### Tópicos 
 
@@ -27,13 +24,17 @@ Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena 
 ![](https://img.freepik.com/fotos-premium/colocaron-pegatinas-papel-diferentes-nombres-fondo-plano-madera-elegir-nombre-bebe_495423-87780.jpg?w=740)
 </p>
 
-# Funcionalidades
+# Análisis de datos
 
-:heavy_check_mark: `Funcionalidad 1:` Realizar el ingreso de los nombres de los amigos, verificando que no se repitan.
+:heavy_check_mark: `Funcionalidad 1:` Ingreso total por cada tienda.
 
-:heavy_check_mark: `Funcionalidad 2:` Sortear entre los nombres ingresados, para seleccionar aleatoriamente al amigo secreto.
+:heavy_check_mark: `Funcionalidad 2:` Ventas por categoría.
 
-:heavy_check_mark: `Funcionalidad 3:` Mostrar el nombre del amigo secreto.
+:heavy_check_mark: `Funcionalidad 3:` Valoración media por tienda.
+
+:heavy_check_mark: `Funcionalidad 3:` Productos más vendidos y menos vendidos.
+
+:heavy_check_mark: `Funcionalidad 3:` Valor del envío promedio por tienda.
 
 # Aplicación
 
